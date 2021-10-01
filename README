@@ -1,0 +1,6 @@
+# Diesel generator controller
+
+Simple script that starts and stop a diesel generator based in a sequence and a given input.
+
+Implemented in a Kincony A4 module.
+
